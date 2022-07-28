@@ -7,21 +7,21 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "<enter the MSSP offer name>"
+            "defaultValue": "Leacam Azure Sentinel Managed Services"
         },
         "mspOfferDescription": {
             "type": "string",
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "<enter the MSSP offer description>"
+            "defaultValue": "Azure Sentinel Managed Services"
         },
         "managedByTenantId": {
             "type": "string",
             "metadata": {
                 "description": "Specify the tenant id of the Managed Service Provider"
             },
-            "defaultValue": "<enter the MSSP Tenant ID (where your identities reside)>"
+            "defaultValue": "3bfdef29-c010-4a8f-b194-04d7ab564e67"
         },
         "authorizations": {
             "type": "array",
@@ -145,7 +145,7 @@
             "metadata": {
                 "description": "The location of resources"
             },
-            "defaultValue": "https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Tools/"
+            "defaultValue": "https://raw.githubusercontent.com/markdarcyleacam/Azure-Sentinel/master/Tools/"
         }
     },
     "variables": {
