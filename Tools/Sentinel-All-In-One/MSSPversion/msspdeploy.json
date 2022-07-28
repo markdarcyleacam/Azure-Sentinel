@@ -30,11 +30,6 @@
             },
             "defaultValue": [
                 {
-                    "principalId": "35b21abf-abf6-4163-8441-20fb2a1aab09",
-                    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "SOC users"
-                },
-                {
                     "principalId": "e2d1919b-0c54-499b-9d6c-e3f8a4a1b221",
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
                     "principalIdDisplayName": "SOC users"
